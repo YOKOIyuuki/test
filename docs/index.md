@@ -10,4 +10,4 @@
 
 [ぐーぐる](https://www.google.co.jp/)
 
-[testページ](https://github.com/YOKOIyuuki/test/blob/master/docs/test.md)
+[testページ](https://github.com/YOKOIyuuki/test/blob/master/docs/test.)
